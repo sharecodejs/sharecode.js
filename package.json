@@ -1,0 +1,25 @@
+{
+  "name": "share-code-js",
+  "version": "0.0.1-beta",
+  "description": "A way to edit your code together with your team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/share-code-js/share-code.git"
+  },
+  "keywords": [
+    "editor",
+    "co-work",
+    "share",
+    "code"
+  ],
+  "author": "DablioZe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/share-code-js/share-code/issues"
+  },
+  "homepage": "https://github.com/share-code-js/share-code#readme"
+}
